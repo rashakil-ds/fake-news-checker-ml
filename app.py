@@ -71,7 +71,7 @@ def predict_for_text(random_text: str):
 st.title("Fake vs. Real News Classifier")
 st.write(
     "Paste any news text or message below. The model will predict whether it is "
-    "**Fake News (0)** or **Real News (1)** using a Logistic Regression classifier trained on TF-IDF features."
+    "**Fake News (0)** or **Real News (1)** using Machine Learning/AI."
 )
 
 user_input = st.text_area("Enter text to classify:", height=300)
