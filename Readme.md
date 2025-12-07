@@ -1,5 +1,5 @@
 
-# [Fake vs Real News Classification App]
+# Fake vs Real News Classification App
  1. [Deployed in Streamlit](https://fake-news-checker-ai.streamlit.app/)
  2. [Flask Version: Deployed in Onrender](https://fake-news-checker-ai.streamlit.app/)
 
